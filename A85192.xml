@@ -1,0 +1,227 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The privileges of the University of Oxford, in point of visitation: cleerly evidenced by letter to an honourable personage. Together with the Universities answer to the summons of the visitors.</title>
+            <author>Fell, John, 1625-1686.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 19 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A85192</idno>
+            <idno type="STC">Wing F619</idno>
+            <idno type="STC">Thomason E411_1</idno>
+            <idno type="STC">ESTC R4583</idno>
+            <idno type="EEBO-CITATION">99872703</idno>
+            <idno type="PROQUEST">99872703</idno>
+            <idno type="VID">161218</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A85192)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 161218)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 65:E411[1])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The privileges of the University of Oxford, in point of visitation: cleerly evidenced by letter to an honourable personage. Together with the Universities answer to the summons of the visitors.</title>
+                  <author>Fell, John, 1625-1686.</author>
+                  <author>University of Oxford.</author>
+               </titleStmt>
+               <extent>[2], 9, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Richard Royston,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Anonymous. Attributed to John Fell.</note>
+                  <note>Place of publication from Wing.</note>
+                  <note>Annotation on Thomason copy: "8ber. [i.e. October] 14th".</note>
+                  <note>Reproductions of the originals in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>University of Oxford.</term>
+               <term>Universities and colleges --  Privileges and immunities --  Great Britain --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:161218:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 49 -->
+            <pb facs="tcp:161218:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 49 -->
+            <p>THE PRIVILEGES OF THE Univerſity of OXFORD, In point of <hi>VISITATION:</hi> Cleerly evidenced by LETTER To an Honourable Perſonage.</p>
+            <p>
+               <hi>TOGETHER WITH</hi> The <hi>
+                  <g ref="char:V">Ʋ</g>niverſities</hi> ANSWER to the Summons of the <hi>Viſitors.</hi>
+            </p>
+            <figure>
+               <p>ACADEMIA OXONIENSIS</p>
+               <figDesc>printer's or publisher's device</figDesc>
+            </figure>
+            <p>
+               <date>
+                  <add> 8ber. 14<hi rend="sup">th</hi>
+                  </add>
+               </date>Printed for <hi>Richard Royſton.</hi> 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:161218:2"/>
+            <!-- PDF PAGE 50 -->
+            <pb n="1" facs="tcp:161218:2"/>
+            <!-- PDF PAGE 50 -->
+            <head>THE PRIVILEGES OF The Univerſity of OXFORD, In point of <hi>Viſitation,</hi> &amp;c.</head>
+            <opener>
+               <salute>Honoured Sir,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">H</seg>Ow violently active the reſentments of <hi>Liberty</hi> and <hi>Freedome</hi> are in the minds of men, there needs no other evidence then this late <hi>War,</hi> wherein the moſt earthy <hi>ſoules,</hi> with earneſt zeale, have ſacrificed their <hi>blood</hi> unto the <hi>name</hi> and empty <hi>ſhadow</hi> of it. And if the bare ſhape, and apparition could actuate thoſe Icie <hi>ſpirits;</hi> I cannot but wonder you ſhould thinke, that the more <hi>Free</hi> and <hi>Aeriall</hi> ones, whoſe induſtry en<g ref="char:EOLhyphen"/>deavours to reſtore the Soul to its native <hi>Priviledge</hi> and <hi>Birthright,</hi> ſhould be ſenſeleſſe of their juſt <hi>intereſt,</hi> eſpecially where <hi>Religion</hi> adds his Title unto <hi>Right;</hi> and private <hi>Liberty,</hi> built upon publick Priviledge, in its fall engages his <hi>Foundation,</hi> and renders the neglect of a ſingle <hi>ſafety,</hi> a deſertion to the <hi>Generall,</hi> and <hi>Treaſon</hi> to <hi>Succeſsion.</hi> But ſince you take no knowledge of theſe ſo
+<pb n="2" facs="tcp:161218:3"/>
+               <!-- PDF PAGE 51 -->high engagements; and ſeeme pre-poſſeſt with the ſpeci<g ref="char:EOLhyphen"/>ous deſigne of reforming of Errours, and the Authori<g ref="char:EOLhyphen"/>tative name of a <hi>Viſitation:</hi> I ſhall endeavour to <hi>De<g ref="char:EOLhyphen"/>monſtrate</hi> the propoſition I glanced upon in my laſt Letter, and you ſo much ſtartle at, <hi>that the right of Vi<g ref="char:EOLhyphen"/>ſiting the Univerſity of</hi> Oxford <hi>is onely in the Kings Ma<g ref="char:EOLhyphen"/>jeſty: and that it is exempt from all other juriſdiction,</hi> both by reaſon of its <hi>foundation,</hi> in regard that all Soci<g ref="char:EOLhyphen"/>eties whereof the <hi>King</hi> or his <hi>Predeceſſors</hi> were <hi>Founders,</hi> are onely Viſitable by the <hi>King,</hi> by the <hi>Common Law</hi> of this Realme.<note n="a" place="margin">6 Hen. 7. fo. 14. 2 Hen. 5.</note> And ſecondly, by reaſon of ſeverall grants of <hi>Exemption:</hi>
+               <note n="b" place="margin">Malmesbur. de Antiq. Glaſton. Auth. Annal. de Monaſt. de Hide, Jo: Roſſus de Regibus. Literae Hen. 4. ad Papam Johannem: <hi>ex fund. Regis.</hi>
+               </note> Firſt, That the <hi>Uni<g ref="char:EOLhyphen"/>verſity</hi> of <hi>Oxford</hi> wholly refers to the <hi>King</hi> as its <hi>Original</hi> and <hi>Founder,</hi> is cleere, in that almoſt 800. yeers ſince King <hi>Alured</hi> founded not only Pub<g ref="char:EOLhyphen"/>lique Schooles of <hi>Arts</hi> and <hi>Lectures,</hi> but their <hi>Privi<g ref="char:EOLhyphen"/>leges</hi> and <hi>Immunities,</hi> having got them confirmed by the then Pope,<note n="*" place="margin">Martin. <hi>2.</hi>
+               </note> and although the <hi>bounty</hi> of inferiour <hi>Benefactors</hi> added to the <hi>bulk</hi> and <hi>magnifience</hi> of the <hi>Foundation,</hi> yet the <hi>King</hi> ſtil aſſumed the Title, as being the totall founder of the <hi>Deſigne;</hi> and his <hi>immunities</hi> deriving and communicating themſelves to the <hi>whole;</hi> and thoſe more <hi>particular founders</hi> were alſo in a lower ranck acknowledged by the <hi>Univerſity,</hi> who ever both ſubmitted and ſheltred themſelves under the title of the <hi>Kings Foundation,</hi>
+               <note n="c" place="margin">Inſtrum. Univer. Ox<g ref="char:EOLhyphen"/>on. ad Ric. ſecundum: <hi>Veſtrae Fundationis &amp; Patronatus.</hi> Hare memor. Univer. Oxon. Fol. 92. Vetus Epiſtolarum Lib. pag. 51. &amp; 56. Ad Regem Hen. 6. pag. 90. &amp; 108. Antiqu. Oxon. Lib. 2. <hi>à</hi> pag. 182. ad pag. 202.</note> and as yet <hi>doe;</hi> (the power of the <hi>Chancellour</hi> being immediately, and only derived from
+<pb n="3" facs="tcp:161218:3"/>
+               <!-- PDF PAGE 51 -->the<note n="d" place="margin">Edvar. 3. <hi>Poteſtate<g ref="char:cmbAbbrStroke">̄</g> re<g ref="char:EOLhyphen"/>giam per nos &amp; progenito<g ref="char:EOLhyphen"/>res noſtros ipſ<g ref="char:EOLhyphen"/>conceſſam.</hi> Hare, memor. Univ. Oxon. in Edvar. 3. fo. 65. The vi<g ref="char:EOLhyphen"/>olation of his Privileges, in particular that of not obeying his Citation, is called, <hi>Laeſio Coronae,</hi> &amp;c. ex Rot. clauſ. de an. 34. reg. Edv. 3. in dorf. memb. 27. Tur. Lond. Rot. patent. de an. 36. parte 2. memb. 44. in dorſ. in Tur. Lond. Rot. patent. de an. 18. parte 2. memb. 31. Tur. Lond.</note> 
+               <hi>King</hi>) and are <hi>obliged</hi> to doe ſo; unleſſe that <hi>Logick</hi> whick makes <hi>Protection</hi> and <hi>Subjection</hi> Relatives, diſpute us out of ſubmiſſion to the Kings onely <hi>juriſdiction,</hi> be<g ref="char:EOLhyphen"/>cauſe He is diſabled from the maintenance of our <hi>Privi<g ref="char:EOLhyphen"/>leges;</hi> and will not let Him be our <hi>Viſitor,</hi> becauſe He can<g ref="char:EOLhyphen"/>not be our <hi>Defender.</hi> And here you may pleaſe to conſi<g ref="char:EOLhyphen"/>der, that the Foundation of the Univerſity, being the Kings and His Predeceſſors <hi>Perſonal act,</hi> His intereſt lies not within the reach of that beaten evaſion of a <hi>publique</hi> or <hi>politique</hi> capacity.</p>
+            <p>And as this <hi>right</hi> and <hi>title</hi> of <hi>Viſiting</hi> is the Kings <hi>Prerogative</hi> as <hi>Founder,</hi> ſo the privilege of being by him onely <hi>Viſited,</hi> is our lawfull <hi>inheritance,</hi> which we claim by <hi>preſcription,</hi>
+               <note n="e" place="margin">
+                  <hi>Indult. Dom. Papa Bonif.</hi> 8. <hi>con<g ref="char:EOLhyphen"/>firm. privileg. Regal. ipſam<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> 
+                     <g ref="char:V">Ʋ</g>niverſitate<g ref="char:cmbAbbrStroke">̄</g> eximens ab omni Juriſd. Archiep. Epiſ<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>op. &amp;c. &amp; à Viſi<g ref="char:EOLhyphen"/>tatione:</hi> adding, that they had had theſe privileges <hi>à tempore cujus contrarii memo<g ref="char:EOLhyphen"/>niâ non exiſtit:</hi> Hare, <hi>li. de Priv. <g ref="char:V">Ʋ</g>niv. Ox. Lib. Vet. Statut. Ox. p.</hi> 95. <hi>Lib. Vet. Se<g ref="char:EOLhyphen"/>nior. procur. p.</hi> 4. the ſame ratified and confirm'd by <hi>Sixtus</hi> 4. <hi>Lib. Epiſt. <g ref="char:V">Ʋ</g>niv. Ox.</hi> in <hi>Hen.</hi> 3. Act of Parl. 25 <hi>H.</hi> 8. <hi>c.</hi> 21. <hi>fo.</hi> 556. all power of Viſitation is given onely to ſuch as ſhal have immediate authority by the Kings Commiſſion under the Great Seale of England, in places formerly exempted, as Colleges, &amp;c. All Letters Patents heretofore made by the Kings Progenitours, in behalf of the Univerſities, are confirmed by Act of Parliament, 13. <hi>Elizab.</hi> And in 19. <hi>Eli<g ref="char:EOLhyphen"/>zab.</hi> part 12. in <hi>dorſrot.</hi> the Privileges of the Univerſity are confirm'd in the ve<g ref="char:EOLhyphen"/>ry words of <hi>Bonif.</hi> 8. acknowledged they had them by Preſcription: the imme<g ref="char:EOLhyphen"/>diate ſubjection of the Univerſity to the authority &amp; juriſdiction of the Prince, and all their other exemptions ratified; and theſe acknowleged to be ſworn to, in the Oath taken by every Graduate, <hi>ad obſerv. Statut. Privil. Con<g ref="char:EOLhyphen"/>ſuet,</hi> &amp;c.</note> allowed and confirm'd by <hi>Char<g ref="char:EOLhyphen"/>ters</hi> from ſeveral Kings, both by <hi>themſelves</hi> and in<hi rend="sup">e</hi> 
+               <hi>Parliaments;</hi> and whatſoever free Royall <hi>grant</hi> was
+<pb n="4" facs="tcp:161218:4"/>
+               <!-- PDF PAGE 52 -->before the <hi>Reformation,</hi> confirm'd unto us by the Pope, (that being then thought neceſſary) was (after that the <hi>Royal Authority</hi> had aſſerted to its Prerogative the <hi>Eccleſiaſtical Juriſdiction</hi>) by the ſucceeding <hi>Princes</hi> in the<hi rend="sup">e</hi> ſame words <hi>eſtabliſh't:</hi> Nor did the practiſe of <hi>Viſitations</hi> diſſent, for all thoſe that happen'd in the re<g ref="char:EOLhyphen"/>mainder of <hi>Hen.</hi> 8 time,<note n="f" place="margin">Foure Viſitations ſince the Re<g ref="char:EOLhyphen"/>formation, all by the Kings Com<g ref="char:EOLhyphen"/>miſſion, ex<g ref="char:EOLhyphen"/>cept in <hi>Q. Maries</hi> time, when the Eccleſiaſticall juriſdiction was again retur<g ref="char:EOLhyphen"/>ned to the Pope, then <hi>Cardinall Pool</hi> viſited, as <hi>Legatus à latere,</hi> which is Equi<g ref="char:EOLhyphen"/>valent. <hi>Citat. Cardin. Poli. ad <g ref="char:V">Ʋ</g>niverſ.</hi>
+               </note> 
+               <hi>Ed:</hi> 6. <hi>Q. Mary, Q. Eliz.</hi> were held by the reſpective <hi>Princes Authority,</hi> and the <hi>Perſons</hi> Viſiting were onely their <hi>Repreſentatives,</hi> and whoſoe<g ref="char:EOLhyphen"/>ver ſate, the King Viſited.</p>
+            <p>I have thus farre as much as may be expected from one, not us'd to ſuch encounters, nor advantag'd by any of the <hi>Vniverſity writings</hi> and <hi>muniments,</hi> (they ha<g ref="char:EOLhyphen"/>ving been of late<note n="g" place="margin">At the beginning of this Parl. the Univerſity Writings were requi<g ref="char:EOLhyphen"/>red, and everſince are de<g ref="char:EOLhyphen"/>tained.</note> withheld from us) diſcover'd our <hi>Privileges</hi> in point of <hi>Viſitation;</hi> being put to this une<g ref="char:EOLhyphen"/>qual <hi>Combate,</hi> to engage with perſons arm'd with <hi>pow<g ref="char:EOLhyphen"/>er</hi> and our own <hi>weapons</hi> too, onely ſhielded by naked <hi>Truth.</hi>
+            </p>
+            <p>But ſhould I wave the former debate of <hi>Intereſt,</hi> and onely look upon the tye of <hi>Honour,</hi> I cannot but with <hi>wonder</hi> and juſt <hi>ſcorn</hi> reſent the mean <hi>opinion</hi> we are now faln into, who for almoſt 800 <hi>years</hi> the <hi>care</hi> and <hi>ſtrife</hi> of<note n="h" place="margin">
+                  <hi>Alured</hi> himſelf viſits <hi>an.</hi> 886. <hi>Ex Aſſer. Me<g ref="char:EOLhyphen"/>neu. Epiſ. Reg. Alured. Scrib. Ex edit. Cambd. Edvar.</hi> 3. &amp; <hi>Rich.</hi> 2. themſelves decided controverſies, that a<g ref="char:EOLhyphen"/>roſe in the Univerſity. The late Viſitations performed by Commiſſioners, the chief Nobility of the Kingdome: and His Majeſty that now is. viſited Chriſt-Church perſonally with 8. Lords of the Counſell.</note> 
+               <hi>Princes,</hi> are made now the prize and ſpoil of our <hi>fellow-ſubjects;</hi> and what ſpeakes more <hi>diſhonour</hi> ſubmitted to the ſtrict <hi>Tribunal</hi> of our own <hi>members,</hi> who having<note n="*" place="margin">Jur. in admiſ. ad gradus.</note> ſworn the <hi>obſervation</hi> of our <hi>Statutes, liber<g ref="char:EOLhyphen"/>ties,</hi> and <hi>cuſtomes,</hi> cannot appear as <hi>Judges</hi> over us, with<g ref="char:EOLhyphen"/>out
+<pb n="5" facs="tcp:161218:4"/>
+               <!-- PDF PAGE 52 -->a violation of their <hi>oaths</hi> ſo <hi>often</hi> and <hi>ſolemnly</hi> taken; nor yet without a manifeſt <hi>oppoſition</hi> of <hi>Nature,</hi> where <hi>parts</hi> judge the <hi>whole;</hi> and the Lawes of juſtice too; e<g ref="char:EOLhyphen"/>ſpecially if we conſider the <hi>Intereſts</hi> and <hi>ingagements,</hi> nay often <hi>profeſſions</hi> of the moſt active <hi>inſtruments</hi> of this <hi>work.</hi>
+            </p>
+            <p>But to go a <hi>ſtep</hi> farther, and reſt ſatisfied both in the <hi>Viſitation</hi> and <hi>Viſitors,</hi> it is <hi>evident</hi> that neither the <hi>one</hi> or the <hi>other</hi> can concern us, till by ſome <hi>Legal</hi> way their <hi>Power</hi> is <hi>manifeſted.</hi> It is true, about three <hi>months</hi> ſince, a <hi>Citation</hi> was publiquely ſet up to <hi>ſummon</hi> our <hi>appearance,</hi> but the force of that being <hi>lapſt,</hi> we are to expect a <hi>new</hi> one, not onely by the <hi>common</hi> rules of <hi>Ju<g ref="char:EOLhyphen"/>ſtice,</hi> but their <hi>own</hi> alſo, who conceiv'd a <hi>Citation</hi> at firſt <hi>neceſſary,</hi> and know the former to have been <hi>voyded</hi> by their own default. Now let the <hi>world</hi> be <hi>Judge,</hi> what <hi>obligation</hi> can lie on any <hi>man</hi> to leave his <hi>occaſions</hi> and <hi>affairs,</hi> to appear, and that under the penalty of <hi>impri<g ref="char:EOLhyphen"/>ſonment,</hi> before thoſe men he <hi>knows</hi> not, or at leaſt is not Legally <hi>ſuppos'd</hi> to know, to have any <hi>Authority</hi> over him?</p>
+            <p>But ſhould we be willing to ſacrifice our <hi>Honour</hi> to a more Chriſtian virtue of <hi>humility,</hi> and our <hi>freedome</hi> un<g ref="char:EOLhyphen"/>to patient <hi>ſufferance</hi> (as in moſt caſes we may lawfully recede from our ſtrict rights:) Yet would there a grea<g ref="char:EOLhyphen"/>ter <hi>ſtop</hi> to our deſires then any yet mentioned <hi>interpoſe</hi> it ſelfe, the ſevere law of <hi>Conſcience;</hi> from whoſe com<g ref="char:EOLhyphen"/>mands neither hope may <hi>lead,</hi> nor danger <hi>force</hi> us.<note place="margin">Proteſt. May <hi>5. 1641.</hi>
+               </note> We are all engag'd by ſolemn <hi>proſteſtation</hi> before <hi>Almighty God to defend and maintain our Lawful Rights and privi<g ref="char:EOLhyphen"/>leges,</hi> (in the <hi>number</hi> of which I am confident I have ſhew'd our <hi>exemption</hi> from this <hi>Viſitation</hi> to be:) and hereby our <hi>adverſaries</hi> are themſelves bound <hi>to protect and defend us in whatſoever we ſhal do, in purſuance of
+<pb n="6" facs="tcp:161218:5"/>
+                  <!-- PDF PAGE 53 -->them:</hi> But if this be not of <hi>force</hi> to us, as it is not con<g ref="char:EOLhyphen"/>ceived to be by them, we have yet a more <hi>ſtrict</hi> and par<g ref="char:EOLhyphen"/>ticular <hi>obligation,</hi> being ſworn by our <hi>reſpective ſtatutes,</hi> to <hi>allow</hi> or <hi>ſubmit</hi> to no <hi>Viſitation,</hi> but from thoſe who are <hi>nominated</hi> by our <hi>founders,</hi> and enabled by the <hi>Kings grant</hi> and <hi>Patent,</hi> confirmed by Act of <hi>Parliament,</hi> and ſo enlivened to the <hi>ſtrength</hi> of <hi>Lawes.</hi>
+            </p>
+            <p>Thus farre briefly of <hi>Privilege</hi> and <hi>Exemption,</hi> I am now to clear a <hi>part</hi> yet untoucht, but of no leſſe <hi>concern<g ref="char:EOLhyphen"/>ment;</hi> that is, the <hi>neceſſity</hi> and <hi>want</hi> of Viſitation. It being given out by the <hi>Out-cries</hi> and <hi>clamours</hi> of our <hi>Ad<g ref="char:EOLhyphen"/>verſaries,</hi> that we are wholly <hi>corrupt</hi> and <hi>loſt,</hi> and not to be <hi>redeemed</hi> to any thing that's <hi>good</hi> and <hi>virtuous,</hi> but by extirpation &amp; ruine. To the <hi>malice</hi> of which <hi>imputa<g ref="char:EOLhyphen"/>tions,</hi> how <hi>uncharitable.</hi> ſoever, I can obſerve no <hi>return</hi> but <hi>prayers</hi> and <hi>ſilence,</hi> finding in the <hi>general, breaſts</hi> neither conſcious of the <hi>crimes</hi> they are <hi>accuſed</hi> of, nor <hi>revengeful</hi> ones towards the <hi>perſons</hi> of their <hi>Accuſers,</hi> but <hi>cheerfully</hi> receiving their many <hi>injuries</hi> (having for whole years together, been publiquely <hi>ſlandered</hi> to their <hi>faces:</hi>) and <hi>burying</hi> in filence thoſe <hi>dark Arts,</hi> and ſtrangely falſe <hi>ſuggeſtions</hi> which have been uſed to <hi>pro<g ref="char:EOLhyphen"/>cure</hi> this <hi>Viſitation,</hi> commit themſelves to the <hi>protection</hi> of <hi>providence: aſſured</hi> either by <hi>clearing</hi> all <hi>Accuſations,</hi> or by a <hi>Chriſtian</hi> ſuffering of whatſoever ſhall be unjuſt<g ref="char:EOLhyphen"/>ly <hi>inflicted,</hi> to <hi>evidence</hi> to the <hi>world,</hi> they are not thoſe <hi>monſters</hi> that their <hi>Enemies</hi> Character would ſpeak them: Nor yet <hi>men</hi> altogether unworthy their <hi>Educati<g ref="char:EOLhyphen"/>on,</hi> or their <hi>founders munificence.</hi> For my <hi>particular,</hi> next to the teſtimony of <hi>Conſcience,</hi> Ambition cannot name unto me a higher note of <hi>Innocence,</hi> then to be ac<g ref="char:EOLhyphen"/>knowledged as</p>
+            <closer>
+               <salute>Sir,</salute> 
+               <signed>Your <hi>moſt humble Servant.</hi>
+               </signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="postscript">
+            <pb n="7" facs="tcp:161218:5"/>
+            <!-- PDF PAGE 53 -->
+            <head>POST-SCRIPT.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>AS J was Sealing, there came to my hands, the Anſwer of the <g ref="char:V">Ʋ</g>niverſity, to the Viſitors Summons, which J here pre<g ref="char:EOLhyphen"/>ſent to your view; and doubt not but the Candour and Reaſon, backt by the Autho<g ref="char:EOLhyphen"/>rity of ſo great a Name, will adde ſome<g ref="char:EOLhyphen"/>thing of weight and moment to what hath been already ſaid.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="document">
+                        <head>To the Right VVorſhipfull, Sir <hi>Nathaniel Brent,</hi> and the reſt of the <hi>commiſsioners,</hi> ſitting at <hi>Merton-Colledge.</hi>
+                        </head>
+                        <p>
+                           <hi>WHereas</hi> by ſeverall <hi>Citations,</hi> ſubſcribed, <hi>Guiliel. New-houſe</hi> Reg. Com. the <hi>Vice-chancellour</hi> and <hi>Proctors</hi> (being the <hi>Magi<g ref="char:EOLhyphen"/>ſtrates</hi> and publick <hi>Officers</hi> of this <hi>Univerſity</hi>) have been required reſpectively to appear before the ſaid
+<pb n="8" facs="tcp:161218:6"/>
+                           <!-- PDF PAGE 54 -->
+                           <hi>Commiſsioners,</hi> ſitting in <hi>Merton College.</hi> They having imparted the ſame to us, the <hi>Delegates</hi> of the <hi>Univerſity,</hi> upon due <hi>Conſtderation</hi> and deliberate <hi>Examination</hi> of the <hi>Premiſes;</hi> We the ſaid <hi>Delegates,</hi> together with the <hi>Vice-chancellour</hi> and <hi>Proctors,</hi> do in the <hi>name</hi> of the <hi>Univerſity,</hi> with all <hi>humble Reverence</hi> to the two <hi>Honorable Houſes of Parliament;</hi> and all due <hi>reſpects</hi> to the <hi>Perſons,</hi> and <hi>places</hi> of thoſe that are <hi>imployed</hi> by them, <hi>Humbly Conceive,</hi> we cannot acknowlege any <hi>Viſitor</hi> but the <hi>King,</hi> or ſuch as are immediately ſent by His Majeſty; it being one of His <hi>Majeſties</hi> undoubted <hi>Rights</hi> (all which we are bound to defend, as by many legall <hi>obligations,</hi> ſo by our late <hi>Proteſtation</hi>) and one of the chiefe <hi>Privileges</hi> of the <hi>Univerſity,</hi> (all which we are obliged by divers <hi>Statutes,</hi> and <hi>Oathes,</hi> to <hi>maintaine</hi> alſo) That His <hi>Majeſtie,</hi> and without Him, none other is to <hi>Viſit</hi> this <hi>Univerſity.</hi> And therefore we cannot (as we conceive) without the manifeſt danger of incurring <hi>multiplyed Perjuries,</hi> ſubmit to this <hi>Viſitation,</hi> or ac<g ref="char:EOLhyphen"/>knowledge, thoſe now ſent by the <hi>Honourable Houſes</hi> of <hi>Parliament</hi> to Viſit us, to be our <hi>Viſitors.</hi> And as we are perſwaded, That if the <hi>weighty Affaires</hi> of the <hi>Kingdome,</hi> would have permitted the Two <hi>Honourable Houſes</hi> to have taken this <hi>Obligation</hi> of ours into <hi>Con<g ref="char:EOLhyphen"/>ſideration,</hi> they would not have thought fit to reduce us to this <hi>extremity,</hi> either of <hi>diſpleaſing</hi> them, or do<g ref="char:EOLhyphen"/>ing <hi>violence</hi> to our owne <hi>Conſciences;</hi> ſo we <hi>beleeve,</hi> and <hi>hope,</hi> that if it ſhall pleaſe thoſe that are <hi>imployed</hi> by them, <hi>candidly</hi> and <hi>charitably</hi> to <hi>repreſent</hi> to them, this our <hi>Anſwer,</hi> with the <hi>Reaſons</hi> thereof, (which we moſt earneſtly deſire them to doe) the <hi>Honourable
+<pb n="9" facs="tcp:161218:6"/>
+                              <!-- PDF PAGE 54 -->Houſes</hi> will be pleaſed to <hi>admit</hi> of this our <hi>Anſwer,</hi> and ſuffer us in the meane while to enjoy what by the <hi>Law</hi> of the <hi>Land</hi> (which is the <hi>Birth-right</hi> of the <hi>Subject</hi>) as well as by the <hi>Privileges</hi> of the <hi>Univerſity</hi> is due unto us; untill we ſhall be proved to have made a Legall <hi>forfeiture</hi> of it, before ſuch as are our <hi>proper</hi> and <hi>competent</hi> Judges: Before whom we ſhall be alwaies ready to <hi>appeare,</hi> and to <hi>Anſwer</hi> whatſoever <hi>crimes</hi> or <hi>miſdemeanours</hi> ſhall be laid to our <hi>charge.</hi>
+                        </p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <trailer>FJNJS.</trailer>
+         </div>
+      </back>
+   </text>
+</TEI>
